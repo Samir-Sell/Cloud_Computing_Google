@@ -27,3 +27,17 @@ This tutorial will take you through the process of setting up a Google Compute E
 - In order to take advantage of the computing power of the VM, we have to set up a development environment where we can run processes. We will want to install a more powerful and new age internet browser. In this example, I chose to download Google Chrome. To download Google Chrome, we have to use the default Internet Explorer browser that is installed on our machine. 
 - Open up Internet Explorer on your VM and click the following: The gear option in the top right > Internet Options > Security > Custom Level > Scroll to file downloads and click enable > ok > apply
 - Then Restart Internet Explorer and search up Google Chrome. Install Google Chrome. 
+- Use Google Chrome to navigate to Anacondas [download page](https://www.anaconda.com/products/individual). Install the Windows 64 bit version and run the executable. Accept all the defaults except for in the advanced installation options. Make sure you tick off the box that states "Add Anaconda 3 to my PATH environment variable". The installation process may take a while. 
+- Next we will install an Integrated Development Environment (IDE) we can use to write Python scripts. The IDE I have chosen is called Visual Studio Code. It can be found [here](https://code.visualstudio.com/). Follow the steps and install with the defaults.
+
+
+Voila! You now have a fully functional VM that is set up for a Python Environment!
+
+
+## Further Reading
+
+[Anaconda Basics](https://docs.anaconda.com/anaconda/user-guide/getting-started/)
+[More Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+
+
+
