@@ -8,3 +8,7 @@ This tutorial will take you through the process of setting up a Google Compute E
 - Give your VM instance a name and set your region to your desired server location. In this example, I have chosen Montreal. I have also chosen a general purpose machine for this example and machine with lower specificiations. In a real use case, these specifications will change as you will need more resources to perform heavy processing
 
 ![](https://github.com/Samir-Sell/Cloud_Computing_Google/blob/main/Images/mtyp.png)
+
+- Next you will navigate down to "Boot Disk" and click the change button. This will take you to a page where you can select the OS and the version. Choose Windows Server as your operating system. The version chosen in this example is called Windows Server 2019 Datacenter. It is key to note that the version states it provides a desktop experience. 
+
+![](https://github.com/Samir-Sell/Cloud_Computing_Google/blob/main/Images/Desktop.png)
