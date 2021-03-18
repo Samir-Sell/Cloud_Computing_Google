@@ -31,13 +31,13 @@ This tutorial will take you through the process of setting up a Google Compute E
 - Next we will install an Integrated Development Environment (IDE) we can use to write Python scripts. The IDE I have chosen is called Visual Studio Code. It can be found [here](https://code.visualstudio.com/). Follow the steps and install with the defaults.
 
 
-Voila! You now have a fully functional VM that is set up for a Python Environment!
+Voila! You now have a fully functional VM that is set up for a Python development environment!
 
 
 ## Further Reading
 
-[Anaconda Basics](https://docs.anaconda.com/anaconda/user-guide/getting-started/)
-[More Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+- [Anaconda Basics](https://docs.anaconda.com/anaconda/user-guide/getting-started/)
+- [More Anaconda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
 
 
 
