@@ -18,4 +18,5 @@ This tutorial will take you through the process of setting up a Google Compute E
 
 ## How to View your VM
 
-- We are going to want a way to access desktop of the VM. We will need to download a piece of software that will allow us to remote desktop protocol into our machine. This tutorial will use MobaXterm. Please use this [link](https://mobaxterm.mobatek.net/download.html) to download the free version. 
+- We are going to want a way to access desktop of the VM. We will need to download a piece of software that will allow us to remote desktop protocol into our machine. This tutorial will use MobaXterm. Please use this [link](https://mobaxterm.mobatek.net/download.html) to download the free version. Follow the steps prompted from you to complete your download. 
+- Navigate to your VM instances page. If your VM instance is not running, start it by selecting it and then pressing the start button in the upper panel. Navigate to where your VM says RDP and click the dropdown menu beside it. You will now click on "Set Windows Password". It will prompt you for a username, I would reccommend choosing the default one it generates for you and clicking set. Google will then provide a password to you. Copy this and save it to safe location. 
