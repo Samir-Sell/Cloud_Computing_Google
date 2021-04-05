@@ -13,8 +13,12 @@ You must have a Google account and then must navigate to [Google AI Platform](ht
 
 - Navigate to the console and click on the "Open Jupyterlab". This will open up the Jupyter Notebook development environment. 
 
+![](https://github.com/Samir-Sell/Cloud_Computing_Google/blob/main/Images/console.png)
+
 
 ## Change the Machine Type or add GPUs
 
 - Once the testing phase of your workflow is completed. You will want to increase the amount CPUs and RAM your instance has available. This can be changed in a stopped instance. Navigate to your console and scroll in your instances to "Machine Type". You can then click the arrow to view the RAM and CPU options available. 
 - If available in the zone and the environment, you can also add GPUs to your instance by looking under the column GPUs in your console. 
+
+![](https://github.com/Samir-Sell/Cloud_Computing_Google/blob/main/Images/machine_type.png)
