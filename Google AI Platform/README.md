@@ -22,3 +22,8 @@ You must have a Google account and then must navigate to [Google AI Platform](ht
 - If available in the zone and the environment, you can also add GPUs to your instance by looking under the column GPUs in your console. 
 
 ![](https://github.com/Samir-Sell/Cloud_Computing_Google/blob/main/Images/machine_type.png)
+
+## Accessing data Google Cloud Storage
+
+- Ensure the bucket and the AI Platform instance are created in the same project as it will be easier to transfer information between the two services. Depending on your use case, there are multiple ways to access the data. 
+- The different ways are specified [here](https://cloud.google.com/ai-platform/prediction/docs/working-with-cloud-storage#read-during-prediction). 
