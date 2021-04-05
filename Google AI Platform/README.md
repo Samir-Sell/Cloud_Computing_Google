@@ -26,4 +26,5 @@ You must have a Google account and then must navigate to [Google AI Platform](ht
 ## Accessing data from Google Cloud Storage
 
 - Ensure the bucket and the AI Platform instance are created in the same project as it will be easier to transfer information between the two services. Depending on your use case, there are multiple ways to access the data. 
-- The different ways are specified [here](https://cloud.google.com/ai-platform/prediction/docs/working-with-cloud-storage#read-during-prediction). 
+- The different ways are specified [here](https://cloud.google.com/ai-platform/prediction/docs/working-with-cloud-storage#read-during-prediction). The two most useful methods will be accessing the data through a TensorFlow module, or by accessing the data using the Google Cloud Storage API. 
+- You can learn how to download data by using the Google Cloud Storage API [here](https://cloud.google.com/storage/docs/downloading-objects#storage-download-object-python). Remember to save the output file with the correct file extension! 
